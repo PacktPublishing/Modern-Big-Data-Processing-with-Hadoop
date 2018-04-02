@@ -1,0 +1,12 @@
+Bangalore,Onion,60
+Bangalore,Chilli,10
+Bangalore,Rice,120
+Bangalore,Dal,80
+NewDelhi,Onion,80
+NewDelhi,Chilli,30
+NewDelhi,Rice,150
+NewDelhi,Dal,180
+Kolkata,Onion,90
+Kolkata,Chilli,20
+Kolkata,Rice,120
+Kolkata,Dal,160
