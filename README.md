@@ -30,6 +30,3 @@ This book is for big data professionals who want to fast-track their career in t
 * [Applied Machine Learning with Python](https://www.packtpub.com/big-data-and-business-intelligence/applied-machine-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781788297066)
 
 * [Hands-On Software Architecture with Golang](https://www.packtpub.com/application-development/hands-software-architecture-golang?utm_source=github&utm_medium=repository&utm_campaign=9781788622592)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
