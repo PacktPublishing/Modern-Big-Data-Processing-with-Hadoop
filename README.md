@@ -30,3 +30,7 @@ This book is for big data professionals who want to fast-track their career in t
 * [Applied Machine Learning with Python](https://www.packtpub.com/big-data-and-business-intelligence/applied-machine-learning-python?utm_source=github&utm_medium=repository&utm_campaign=9781788297066)
 
 * [Hands-On Software Architecture with Golang](https://www.packtpub.com/application-development/hands-software-architecture-golang?utm_source=github&utm_medium=repository&utm_campaign=9781788622592)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787122765">https://packt.link/free-ebook/9781787122765 </a> </p>
